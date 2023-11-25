@@ -1,0 +1,26 @@
+.active2 {
+    background: #FF1F3D;
+    color: #fff;
+}
+.blog-body{
+    background-image: url('./images/blog-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.accordion {
+    background-color: #00163B;
+    color: white; 
+}
+
+/* Styling the accordion button */
+.accordion-button {
+    background-color: #00163B;
+    color: white;
+}
+
+/* Styling the accordion body */
+.accordion-body {
+    background-color: #00163B;
+    color: white;
+}
